@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#fdf3e7"/>
+  <circle cx="368" cy="132" r="46" fill="#f7c948"/>
+  <circle cx="368" cy="132" r="60" fill="#f7c948" opacity="0.22"/>
+  <!-- vänster hus -->
+  <rect x="64" y="228" width="152" height="212" rx="18" fill="#ef8064"/>
+  <rect x="64" y="228" width="152" height="26" rx="12" fill="#d96b50"/>
+  <rect x="92" y="276" width="44" height="44" rx="9" fill="#fffaf3"/>
+  <rect x="152" y="276" width="44" height="44" rx="9" fill="#fffaf3"/>
+  <rect x="92" y="344" width="44" height="44" rx="9" fill="#fffaf3" opacity="0.75"/>
+  <rect x="152" y="344" width="44" height="44" rx="9" fill="#fffaf3" opacity="0.75"/>
+  <!-- mittenhus -->
+  <rect x="188" y="152" width="176" height="288" rx="20" fill="#8fd8c6"/>
+  <rect x="188" y="152" width="176" height="30" rx="14" fill="#63bda8"/>
+  <rect x="222" y="200" width="48" height="48" rx="10" fill="#fffaf3"/>
+  <rect x="284" y="200" width="48" height="48" rx="10" fill="#fffaf3"/>
+  <rect x="222" y="268" width="48" height="48" rx="10" fill="#fffaf3" opacity="0.8"/>
+  <rect x="284" y="268" width="48" height="48" rx="10" fill="#fffaf3" opacity="0.8"/>
+  <!-- dörr + markis -->
+  <rect x="240" y="352" width="72" height="88" rx="10" fill="#5b8fa8"/>
+  <circle cx="300" cy="398" r="6" fill="#f7c948"/>
+  <path d="M226 344 h100 v14 a12 12 0 0 1 -12 12 h-76 a12 12 0 0 1 -12 -12 z" fill="#f2a0b4"/>
+  <!-- höger hus -->
+  <rect x="336" y="252" width="128" height="188" rx="16" fill="#f7c948"/>
+  <rect x="336" y="252" width="128" height="24" rx="11" fill="#e0b03a"/>
+  <rect x="360" y="296" width="38" height="38" rx="8" fill="#fffaf3"/>
+  <rect x="406" y="296" width="38" height="38" rx="8" fill="#fffaf3"/>
+  <rect x="360" y="356" width="38" height="38" rx="8" fill="#fffaf3" opacity="0.8"/>
+  <rect x="406" y="356" width="38" height="38" rx="8" fill="#fffaf3" opacity="0.8"/>
+  <!-- trottoar -->
+  <rect x="40" y="432" width="432" height="28" rx="14" fill="#e2cdb6"/>
+</svg>
